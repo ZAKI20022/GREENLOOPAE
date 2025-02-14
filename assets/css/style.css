@@ -306,7 +306,9 @@ body {
 }
 
 
-
+html, body {
+  overflow-x: hidden;
+}
 
 
 
@@ -597,8 +599,9 @@ body {
 
 
   .container {
-    max-width: 550px;
-    margin-inline: auto;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
   }
 
   .section-title { --fs-3: 3.6rem; }
