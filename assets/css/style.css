@@ -484,7 +484,7 @@ body {
 .footer-top {
   background-image: url("../images/BlackForest-Germany-GettyImages-147180370.jpg"), var(--gradient-1);
   background-repeat: no-repeat;
-  background-size: auto, 200%;
+  background-size: auto, 300%;
   background-position: center, center;
   color: var(--white);
 }
