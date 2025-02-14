@@ -314,9 +314,9 @@ body {
   background-image: url("../images/BlackForest-Germany-GettyImages-147180370.jpg"),
                     url("../images/hero-bg.png"),
                     var(--gradient-1);
-  background-repeat: no-repeat, no-repeat, no-repeat;
-  background-position: -280px bottom, center, center;
-  background-size: auto, cover, auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   padding-block-start: 120px;
   padding-block-end: var(--section-padding);
 }
